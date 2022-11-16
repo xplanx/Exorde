@@ -7,7 +7,7 @@ Exorde is the web3 protocol that empowers developers to crawl and link all publi
 <h1 align=center><img src="https://uploads-ssl.webflow.com/60aec7ee1888490c4031cbcd/62028bb11f77dff6ed7db9fc_landscape-logo-white.svg" width="250"><br>Testnet Tutorial</h1>
 
 ## Prepare
-1. Hardware Requirement
+1.Requirement
   <table>
     <tr>
       <th>Component
