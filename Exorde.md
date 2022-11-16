@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td>RAM 
-      <td>At least 2-4 of memory (RAM)
+      <td>At least 2-4 memory (RAM)
     </tr>
     <tr>
       <td>Storage
@@ -38,8 +38,6 @@
     <tr>
       <td>PQhosting 
       <td>https://pq.hosting/?from=542984</td>
-
-    </tr>
 </table>
 
 ## Usefull Link
