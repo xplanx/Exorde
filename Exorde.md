@@ -35,7 +35,6 @@
     <tr>
       <th>Provider
       <th>Link
-    </tr>
     <tr>
       <td>PQhosting 
       <td>https://pq.hosting/?from=542984</td>
@@ -53,7 +52,6 @@ There are have two option for installing ExordeLabs, ``Anaconda`` and ``Docker``
 
 ### Update apt
 
-
 sudo apt-get update
 sudo apt-get install \
     ca-certificates \
@@ -65,7 +63,6 @@ sudo apt-get install \
 
 
 ### Adding official key of GPG Docker
-
 
 sudo mkdir -p /etc/apt/keyrings
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
