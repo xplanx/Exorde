@@ -23,7 +23,7 @@ Exorde is the web3 protocol that empowers developers to crawl and link all publi
     </tr>
     <tr>
       <td>Storage
-      <td>At least 20-30GB of SSD disk storage
+      <td>At least 50 GB of SSD disk storage
     </tr>
     <tr>
       <td>Connection
