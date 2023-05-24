@@ -1,6 +1,6 @@
 # Exorde
 
-https://app.parsvps.shop/app/keys?id=804d811d-b464-4d19-b67a-09f469f1d6fc
+
 
 Exorde is the web3 protocol that empowers developers to crawl and link all public data on the web.
 <p style="font-size:14px" align="right">
